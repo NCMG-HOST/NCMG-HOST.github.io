@@ -5,7 +5,7 @@ title: "Welcome to NCMG"
 author_profile: false
 ---
 
-# Welcome to NCMG
+# Welcome to the NCMG
 
 ## Supporting Complaints Managers Across England
 
