@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: splash
 permalink: /reps/
 title: "Representatives of NCMG"
-author_profile: true
+author_profile: false
 ---
 
 ## Representatives attending NCMG
