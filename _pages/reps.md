@@ -31,5 +31,5 @@ These regions are:
 - **Treasurer:** Angela Esslinger  
   *Lancashire County Council – North West Group*
 
-- **Group Co-ordinator:** Simon Parsons  
-  *Leicestershire County Council - Eastern Group*
+- **Group Co-ordinator:** Mark Smeed  
+  *Bromley Council - London Group*
