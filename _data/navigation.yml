@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About us"
-    url: /about
+    url: /
 
   - title: "Representatives"
     url: /reps
