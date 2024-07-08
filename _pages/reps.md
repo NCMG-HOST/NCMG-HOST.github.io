@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /reps/
 title: "Representatives of NCMG"
 author_profile: true
