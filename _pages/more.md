@@ -9,7 +9,7 @@ author_profile: false
 
 ## Supporting Complaints Managers Across England
 
-NCMG (National Complaints Managers' Group) aims to provide vital support to complaints managers, who often face isolated and challenging roles. We achieve this through:
+The NCMG (National Complaints Managers' Group) aims to provide vital support to complaints managers, who often face isolated and challenging roles. We achieve this through:
 
 - **Facilitating Peer Support:** We offer regional and national networks to connect complaints managers, fostering peer support and collaboration.
 
