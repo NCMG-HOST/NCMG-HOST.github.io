@@ -33,8 +33,6 @@
       {% if site.author.bitbucket %}
         <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}" title="Bitbucket"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i></a></li>
       {% endif %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" title="RSS"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i></a></li>
-    {% else %} <!-- display social media text with icon -->
       {% if site.twitter.username %}
         <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
