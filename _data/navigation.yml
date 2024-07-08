@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "About us"
+    url: /about
+
+  - title: "Representatives"
+    url: /reps
+
+  - title: "Find out more"
+    url: /more
+    
