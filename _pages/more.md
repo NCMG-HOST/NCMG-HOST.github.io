@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /more/
 title: "Welcome to NCMG"
 author_profile: false
 ---
