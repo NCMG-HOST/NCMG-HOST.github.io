@@ -1,6 +1,5 @@
 ---
 layout: splash
-permalink: /more/
 title: "Welcome to NCMG"
 author_profile: false
 ---
@@ -24,3 +23,6 @@ For more information about our work or details on our meetings, please contact:
 Stuart Purcell  
 Chair, NCMG  
 Email: [Stuart.Purcell@rotherham.gov.uk](mailto:Stuart.Purcell@rotherham.gov.uk)
+
+<!-- Add link to Khub.net -->
+<p>Change this to add a link to Khub.net. Search for us at NCMG on Khub.net</p>
