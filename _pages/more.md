@@ -25,4 +25,4 @@ Stuart Purcell
 Chair, NCMG  
 Email: [Stuart.Purcell@rotherham.gov.uk](mailto:Stuart.Purcell@rotherham.gov.uk)
 
-Or search for us at NCMG on Khub.net
+Or search for us at NCMG on [Khub.net](https://Khub.net).
