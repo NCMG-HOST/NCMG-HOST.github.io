@@ -1,26 +1,26 @@
 .left-splash {
   display: flex;
-  align-items: flex-start; // Align items to the top for vertical flow
+  align-items: flex-start; // Align items at the start (top) of the flex container
+  margin-bottom: 2em;
 
   .image {
-    flex: 0 0 40%; // Image takes up 40% of the width
+    flex: 0 0 auto; // Image takes its natural width
     margin-right: 2em; // Space between the image and the paragraph
-
     img {
-      width: 100%;
+      max-width: 100%; // Ensure the image doesn't exceed its container's width
       height: auto;
-      display: block; // Ensures image is displayed as a block element
-      border-radius: 8px; // Adds rounded corners for a polished look
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Adds a subtle shadow for depth
+      float: left; // Float the image to the left
+      shape-outside: circle(); // Example of shape-outside usage for non-rectangular wrapping
+      margin-right: 1em; // Space between image and text, adjust as needed
     }
   }
 
   .content {
     flex: 1; // Paragraph takes up the remaining space
     p {
-      margin-top: 0; // Remove default margin for the paragraph
-      line-height: 1.6; // Ensures comfortable line spacing
-      font-size: 1em; // Standard font size
+      margin: 0; // Remove default margin for paragraphs
+      line-height: 1.6;
+      font-size: 1em;
       color: #333; // Dark gray color for text
     }
   }
