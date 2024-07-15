@@ -1,16 +1,16 @@
 .left-splash {
   display: flex;
-  align-items: center;
-  margin-bottom: 2em;
+  align-items: flex-start; // Align items to the top for vertical flow
 
   .image {
     flex: 0 0 40%; // Image takes up 40% of the width
     margin-right: 2em; // Space between the image and the paragraph
+
     img {
       width: 100%;
       height: auto;
       display: block; // Ensures image is displayed as a block element
-      border-radius: 8px; // Adds rounded corners for a more polished look
+      border-radius: 8px; // Adds rounded corners for a polished look
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Adds a subtle shadow for depth
     }
   }
@@ -18,9 +18,9 @@
   .content {
     flex: 1; // Paragraph takes up the remaining space
     p {
-      margin: 0;
-      line-height: 1.6;
-      font-size: 1em;
+      margin-top: 0; // Remove default margin for the paragraph
+      line-height: 1.6; // Ensures comfortable line spacing
+      font-size: 1em; // Standard font size
       color: #333; // Dark gray color for text
     }
   }
